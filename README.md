@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name : AAKIL AHAMED S
-### Reg. No : 212224040002
+### Name : Karthick P
+### Reg. No : 212222100021
 
 ## Algorithm or Steps Involved:
 <ol>
